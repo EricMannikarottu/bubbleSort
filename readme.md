@@ -1,1 +1,1 @@
-# Basic bubble sort and the time complexit is O(n^2)
+# Basic bubble sort and the time complexity is O(n^2)
